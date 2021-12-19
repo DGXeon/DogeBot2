@@ -5334,7 +5334,7 @@ ytmp4 => Video`, contextInfo: { forwardingScore: 508, isForwarded: true, externa
             axios
               .get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
               .then(async (a) => {
-                if (Number(filesize) >= 100000)
+                if (Number(filesize) >= 999999)
                   return sendMediaURL(
                     from,
                     thumb,
