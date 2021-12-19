@@ -1734,7 +1734,7 @@ stamtus =`❏ 「 \`\`\`SOUND MENU\`\`\` 」
 🐶 ${prefix}sound4
 🐶 ${prefix}sound5
 🐶 ${prefix}sound6
-?? ${prefix}sound7
+🐶 ${prefix}sound7
 🐶 ${prefix}sound8
 🐶 ${prefix}sound9
 🐶 ${prefix}sound10
@@ -1791,7 +1791,7 @@ stamtus =`❏ 「 \`\`\`OWNER MENU\`\`\` 」
 🐶 ${prefix}setname [text]
 🐶 ${prefix}setprefix [ multi/nopref/prefix ]
 🐶 ${prefix}setbio [text]
-?? ${prefix}leave
+🐶 ${prefix}leave
 🐶 ${prefix}restart
 🐶 ${prefix}addresponse [ ask|answer ]
 🐶 ${prefix}delresponse [ name ]
