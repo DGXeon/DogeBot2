@@ -1878,22 +1878,6 @@ stamtus =`❏ 「 \`\`\`MAKER MENU\`\`\` 」
 ────────────────────
 _example: ${prefix}throne Xeon_
 ────────────────────
-🐶 ${prefix}greyscale 「 reply image 」
-🐶 ${prefix}burple 「 reply image 」
-🐶 ${prefix}burple2 「 reply image 」
-🐶 ${prefix}passed 「 reply image 」
-🐶 ${prefix}jail 「 reply image 」
-🐶 ${prefix}glass 「 reply image 」
-🐶 ${prefix}comrade 「 reply image 」
-🐶 ${prefix}blue 「 reply image 」
-🐶 ${prefix}invert_greyscale 「 reply image 」
-🐶 ${prefix}red 「 reply image 」
-🐶 ${prefix}rainbow 「 reply image 」
-🐶 ${prefix}brown 「 reply image 」
-🐶 ${prefix}wasted 「 reply image 」
-🐶 ${prefix}invert 「 reply image 」
-🐶 ${prefix}rubbish 「 reply image 」
-🐶 ${prefix}green 「 reply image 」
 🐶 ${prefix}write 「 text 」
 🐶 ${prefix}throne 「 text 」
 🐶 ${prefix}logoff 「 text 」
