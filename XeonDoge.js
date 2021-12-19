@@ -69,7 +69,6 @@ const { herolist } = require('./lib/herolist.js')
 const { herodetails } = require('./lib/herodetail.js')
 const { mediafireDl } = require('./lib/mediafire.js')
 const { pinterest } = require('./lib/pinterest')
-const { menunya } = require('./menubot/allmenu')
 const { addCommands, checkCommands, deleteCommands } = require('./lib/autoresp')
 const { yta, ytv, buffer2Stream, ytsr, baseURI, stream2Buffer, noop } = require('./lib/ytdl')
 const { jadibot, stopjadibot, alphajadibot } = require('./lib/jadibot.js')
@@ -1477,8 +1476,6 @@ watak = body.slice(1)
       omkeh = await getBuffer(`https://ojankyaa.000webhostapp.com/sound/${command}.mp3`)
       alpha.sendMessage(from, omkeh, MessageType.audio, { quoted: mek, mimetype: 'audio/mp4', ptt: true })
           break
-case 'allmenu':
-reply (`Blank`)
 break
 case 'funmenu':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
