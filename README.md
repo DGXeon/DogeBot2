@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/LPbHTfL/nsfwdoge.jpg?format=jpg&name=900x900" alt="Xeon" width="170" />
 
-## Doge Bot
+## Doge Bot V2
 
 </div>
 
@@ -15,7 +15,7 @@
 <a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
-## Deploy
+## Deploy (you can use this button either)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/Botv2Test/)
 
 # Requirements
@@ -47,7 +47,7 @@ heroku/nodejs
 ## Clone Repo & Installation dependencies
 ```bash
 🦄 git clone https://github.com/DGXeon/DogeBot.git
-🦄 cd DogeBot
+🦄 cd DogeBot2
 🦄 npm start
 ```
 ## For Termux
@@ -63,7 +63,7 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot
+🦄 git clone https://github.com/DGXeon/DogeBot2
 🦄 cd DogeBot2
 🦄 ls
 🦄 rm -rf session.json
