@@ -71,10 +71,8 @@ heroku/nodejs
 🦄 npm start
 🦄 scan qr code within 15seconds
 ```
-## Installation Video
-```bash
-Oke
-```
+## `Installation Video`
+[Click here](https://youtu.be/zXvwqA8LvTw)
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
