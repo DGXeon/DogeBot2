@@ -15,10 +15,6 @@
 <a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
-
-## 1st Repository was deleted
-Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️Thank you!!
-
 ## Deploy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/Botv2Test/)
 
@@ -68,7 +64,7 @@ heroku/nodejs
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
 🦄 git clone https://github.com/DGXeon/DogeBot
-🦄 cd DogeBot
+🦄 cd DogeBot2
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm install
@@ -84,7 +80,7 @@ My Personal Chat👇
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/FpE1TXXUzuk0TASzYwX8ZM"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/G3a3AQndqS5J45eD7zznXF"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 * [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
