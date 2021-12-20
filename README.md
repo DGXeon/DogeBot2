@@ -40,8 +40,8 @@ heroku/nodejs
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot2/blob/master/setting.js#L10)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot2/blob/master/setting.js#L12)
+- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot2/blob/master/setting.json#L10)
+- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot2/blob/master/setting.json#L12)
 
 # Installation
 ## Clone Repo & Installation dependencies
