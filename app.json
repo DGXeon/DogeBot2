@@ -1,7 +1,7 @@
 {
-  "name": "whatsapp-bot",
+  "name": "Doge Bot V2",
   "description": "whatsapp bot build with nodejs",
-  "repository": "https://github.com/DGXeon/Botv2Test",
+  "repository": "https://github.com/DGXeon/DogeBot2",
   "logo": "https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
