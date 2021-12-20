@@ -36,12 +36,12 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot/blob/master/session.json#L1)
+[`Click Here`](https://github.com/DGXeon/DogeBot2/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot2/blob/master/setting.js#L10)
+- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot2/blob/master/setting.js#L12)
 
 # Installation
 ## Clone Repo & Installation dependencies
