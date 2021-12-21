@@ -99,30 +99,30 @@ tampilWaktu =jams + ":" + menit + ":" + detik;
 var ase = new Date();
 var waktoonyabro = ase.getHours(); 
 switch(waktoonyabro){
-case 0: waktoonyabro = `Good Evening Owner..ðŸŒƒ`; break;
-case 1: waktoonyabro = `Good Evening Owner..ðŸŒƒ`; break;
-case 2: waktoonyabro = `Good Evening Owner..ðŸŒƒ`; break;
-case 3: waktoonyabro = `Good Morning Owner..âœ¨`; break;
-case 4: waktoonyabro = `Good Morning Owner..âœ¨`; break; 
-case 5: waktoonyabro = `Good Morning Owner..âœ¨`; break;
-case 6: waktoonyabro = `Good Morning Owner..âœ¨`; break;
-case 7: waktoonyabro = `Good Morning Owner..âœ¨`; break;
-case 8: waktoonyabro = `Good Morning Owner..âœ¨`; break;
-case 9: waktoonyabro = `Good Morning Owner..âœ¨`; break;
-case 10: waktoonyabro = `Good Morning Owner..âœ¨`; break;
-case 11: waktoonyabro = `Good Afternoon Owner..ðŸ”¥`; break; 
-case 12: waktoonyabro = `Good Afternoon Owner..ðŸ”¥`; break;
-case 13: waktoonyabro = `Good Afternoon Owner..ðŸ”¥`; break;
-case 14: waktoonyabro = `Good Afternoon Owner..ðŸ”¥`; break;
-case 15: waktoonyabro = `Good Afternoon Owner..ðŸŒ‡`; break;
-case 16: waktoonyabro = `Good Afternoon Owner..ðŸŒ‡`; break;
-case 17: waktoonyabro = `Good Afternoon Owner..ðŸŒ‡`; break;
-case 18: waktoonyabro = `Good Evening Owner..ðŸŒƒ`; break; 
-case 19: waktoonyabro = `Good Evening Owner..ðŸŒƒ`; break;
-case 20: waktoonyabro = `Good Evening Owner..ðŸŒƒ`; break;
-case 21: waktoonyabro = `Good Evening Owner..ðŸŒƒ`; break;
-case 22: waktoonyabro = `Good Evening Owner..ðŸŒƒ`; break; 
-case 23: waktoonyabro = `Good Evening Owner..ðŸŒƒ`; break;
+case 0: waktoonyabro = `Good Evening Owner..🌃`; break;
+case 1: waktoonyabro = `Good Evening Owner..🌃`; break;
+case 2: waktoonyabro = `Good Evening Owner..🌃`; break;
+case 3: waktoonyabro = `Good Morning Owner..✨`; break;
+case 4: waktoonyabro = `Good Morning Owner..✨`; break; 
+case 5: waktoonyabro = `Good Morning Owner..✨`; break;
+case 6: waktoonyabro = `Good Morning Owner..✨`; break;
+case 7: waktoonyabro = `Good Morning Owner..✨`; break;
+case 8: waktoonyabro = `Good Morning Owner..✨`; break;
+case 9: waktoonyabro = `Good Morning Owner..✨`; break;
+case 10: waktoonyabro = `Good Morning Owner..✨`; break;
+case 11: waktoonyabro = `Good Afternoon Owner..🔥`; break; 
+case 12: waktoonyabro = `Good Afternoon Owner..🔥`; break;
+case 13: waktoonyabro = `Good Afternoon Owner..🔥`; break;
+case 14: waktoonyabro = `Good Afternoon Owner..🔥`; break;
+case 15: waktoonyabro = `Good Afternoon Owner..🌇`; break;
+case 16: waktoonyabro = `Good Afternoon Owner..🌇`; break;
+case 17: waktoonyabro = `Good Afternoon Owner..🌇`; break;
+case 18: waktoonyabro = `Good Evening Owner..🌃`; break; 
+case 19: waktoonyabro = `Good Evening Owner..🌃`; break;
+case 20: waktoonyabro = `Good Evening Owner..🌃`; break;
+case 21: waktoonyabro = `Good Evening Owner..🌃`; break;
+case 22: waktoonyabro = `Good Evening Owner..🌃`; break; 
+case 23: waktoonyabro = `Good Evening Owner..🌃`; break;
 }
 
 var tampilUcapan = '' + waktoonyabro;
@@ -303,9 +303,9 @@ dogexeon.on('group-participants-update', async (anu) => {
 
 				img = await getBuffer(ppUrl)
 
-				teks = `ðŸ¶ *HÉª* @${num.split('@')[0]}\nðŸ¶ *BÉªá´* : *${thu.status}*\nðŸ¶ *Má´‡á´Ê™á´‡Ê€s : ${memeg}*\nðŸ¶ *Wá´‡ÊŸá´„á´á´á´‡ Tá´ ${mdata.subject}*\nðŸ¶ *á´…á´É´á´› êœ°á´Ê€É¢á´‡á´› á´›á´ Ê€á´‡á´€á´… á´…á´‡êœ±á´„Ê€Éªá´˜á´›Éªá´É´*`
+				teks = `🐶 *Hɪ* @${num.split('@')[0]}\n🐶 *Bɪᴏ* : *${thu.status}*\n🐶 *Mᴇᴍʙᴇʀs : ${memeg}*\n🐶 *Wᴇʟᴄᴏᴍᴇ Tᴏ ${mdata.subject}*\n🐶 *ᴅᴏɴᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ʀᴇᴀᴅ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ*`
 
-				sendButImage(anu.jid, teks, `ðƒð¨ð ðž ðð¨ð­`, img,but = [{buttonId:`getdescgc`, 
+				sendButImage(anu.jid, teks, `𝐃𝐨𝐠𝐞 𝐁𝐨𝐭`, img,but = [{buttonId:`getdescgc`, 
 
                buttonText:{displayText: 'WELCOME'},type:1}], options = {contextInfo: {mentionedJid: [num, htod]}})
 
@@ -325,9 +325,9 @@ dogexeon.on('group-participants-update', async (anu) => {
 
 				img = await getBuffer(ppUrl)
 
-				teks = `*Gá´á´á´… BÊá´‡* ðŸ‘‹\n@${num.split('@')[0]}\n*ð™·ðš˜ðš™ðšŽðšðšžðš•ðš•ðš¢ ðšƒðš‘ðšŽðš›ðšŽ ðš†ðš˜ðš—ðš ð™±ðšŽ ð™±ðšžðš›ðšðšŽðš— ð™·ðšŽðš›ðšŽ ð™°ðš—ðš¢ðš–ðš˜ðš›ðšŽ* ðŸ¶`
+				teks = `*Gᴏᴏᴅ Bʏᴇ* 👋\n@${num.split('@')[0]}\n*𝙷𝚘𝚙𝚎𝚏𝚞𝚕𝚕𝚢 𝚃𝚑𝚎𝚛𝚎 𝚆𝚘𝚗𝚝 𝙱𝚎 𝙱𝚞𝚛𝚍𝚎𝚗 𝙷𝚎𝚛𝚎 𝙰𝚗𝚢𝚖𝚘𝚛𝚎* 🐶`
 
-				sendButImage(anu.jid, teks, `ðƒð¨ð ðž ðð¨ð­`, img,but = [{buttonId: `Hello World!`, buttonText: {displayText: `GOODBYE !!`}, type: 1}], options = {contextInfo: {mentionedJid: [num, htod]}})
+				sendButImage(anu.jid, teks, `𝐃𝐨𝐠𝐞 𝐁𝐨𝐭`, img,but = [{buttonId: `Hello World!`, buttonText: {displayText: `GOODBYE !!`}, type: 1}], options = {contextInfo: {mentionedJid: [num, htod]}})
 
 			} else if (anu.action == 'promote') {
 
@@ -345,7 +345,7 @@ dogexeon.on('group-participants-update', async (anu) => {
 
 				img = await getBuffer(ppUrl)
 
-				teks = `ã€Œ PROMOTE - DETECTED ã€\n\nName : @${num.split("@")[0]}\nStatus : Member -> Admin\nGroup : ${mdata.subject}`
+				teks = `「 PROMOTE - DETECTED 」\n\nName : @${num.split("@")[0]}\nStatus : Member -> Admin\nGroup : ${mdata.subject}`
 
 				sendButImage(anu.jid, teks, ``, img,but = [{buttonId: `Hello World!`, buttonText: {displayText: `SAWADEE KHA HAPPY NOW?`}, type: 1}], options = {contextInfo: {mentionedJid: [num]}})
 
@@ -365,7 +365,7 @@ dogexeon.on('group-participants-update', async (anu) => {
 
 				img = await getBuffer(ppUrl)
 
-				teks = `ã€Œ DEMOTE - DETECTED ã€\n\nName : @${num.split("@")[0]}\nStatus : Admin -> Member\nGroup : ${mdata.subject}`
+				teks = `「 DEMOTE - DETECTED 」\n\nName : @${num.split("@")[0]}\nStatus : Admin -> Member\nGroup : ${mdata.subject}`
 
 				sendButImage(anu.jid, teks, ``, img,but = [{buttonId: `Hello World!`, buttonText: {displayText: `ANOTHER ONE BITE DUST`}, type: 1}], options = {contextInfo: {mentionedJid: [num]}})
 
@@ -386,11 +386,11 @@ dogexeon.on('group-update', async (anu) => {
 	group = await dogexeon.groupMetadata(anu.jid)
 	if (!anu.desc == '') {
 		tag = anu.descOwner.replace('@c.us', '@s.whatsapp.net')
-		dogexeon.sendMessage(group.id, `Group Description Change\n\nâ€¢ Admin : @${tag.split("@")[0]}\nâ€¢ Group : ${group.subject}\nâ€¢ descTime : ${anu.descTime}\nâ€¢ descID : ${anu.descId}\nâ€¢ descNew : ${anu.desc}`, MessageType.text, {contextInfo: { mentionedJid: [tag]}})
+		dogexeon.sendMessage(group.id, `Group Description Change\n\n• Admin : @${tag.split("@")[0]}\n• Group : ${group.subject}\n• descTime : ${anu.descTime}\n• descID : ${anu.descId}\n• descNew : ${anu.desc}`, MessageType.text, {contextInfo: { mentionedJid: [tag]}})
 		} else if (!anu.restrict == '') {
-			dogexeon.sendMessage(group.id, `Group Restrict Change\n\nâ€¢ Group : ${group.subject}\nâ€¢ groupId : ${anu.jid}\nâ€¢ restrict : ${anu.restrict}`, MessageType.text)
+			dogexeon.sendMessage(group.id, `Group Restrict Change\n\n• Group : ${group.subject}\n• groupId : ${anu.jid}\n• restrict : ${anu.restrict}`, MessageType.text)
 			} else if (!anu.announce == '') {
-				dogexeon.sendMessage(group.id, `Group Announce Change\n\nâ€¢ Group : ${group.subject}\nâ€¢ groupId : ${anu.jid}\nâ€¢ announce : ${anu.announce}`, MessageType.text)
+				dogexeon.sendMessage(group.id, `Group Announce Change\n\n• Group : ${group.subject}\n• groupId : ${anu.jid}\n• announce : ${anu.announce}`, MessageType.text)
 				} 
 					} catch(err) {
 						e = String(err)
