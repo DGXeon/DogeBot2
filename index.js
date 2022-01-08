@@ -145,7 +145,7 @@ const starts = async (dogexeon = new WAConnection()) => {
 console.log(color('> GITHUB: DGXeon ','silver'))
 console.log(color('> WA NUMBER: +916909137213 ','silver'))
 console.log(color('  Xeon Bot Inc. 2021','mediumseagreen'))
-	dogexeon.browserDescription = [ 'Subscribe Xeon', 'ubuntu', '3.0' ]
+	dogexeon.browserDescription = [ 'Bot', 'ubuntu', '3.0' ]
 
 	dogexeon.on('qr', () => {
 	console.log(color('[','white'), color('!','red'), color(']','white'), color('SCAN THE QR'))
