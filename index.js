@@ -132,7 +132,7 @@ require('./XeonDoge.js')
 
 const starts = async (dogexeon = new WAConnection()) => {
 	dogexeon.logger.level = 'warn'
-	dogexeon.version = [2, 2149, 4]
+	dogexeon.version = [2, 2143, 16]
 	console.log(color(`\x1b[1;37m> ${tampilUcapan}\n`,'cyan'))
 	console.log(color(figlet.textSync('Doge Bot', {
 		font: 'Standard',
